@@ -69,6 +69,11 @@ node preview-server.cjs
 
 AI 辅助制作过程见 [docs/AI-CREATION.md](docs/AI-CREATION.md)，测试记录见 [docs/TESTING.md](docs/TESTING.md)。
 
+## Contributors / 贡献者
+
+- Yiyi Lin
+- Yin Tang
+
 ## 开源许可证
 
 本项目采用 [MIT License](LICENSE)。可以自由使用、修改与再发布，需保留许可证和版权声明。
